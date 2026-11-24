@@ -1,0 +1,7 @@
+# keep line endings right on every system, or the start files break
+*.bat      text eol=crlf
+*.sh       text eol=lf
+*.command  text eol=lf
+*.py       text eol=lf
+*.html     text eol=lf
+*.md       text eol=lf

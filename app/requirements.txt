@@ -1,0 +1,8 @@
+# Only needed without the Start files (they install everything by themselves).
+opencv-python-headless>=4.8
+numpy
+pillow>=10.1
+pillow-heif
+pyyaml
+resvg-py
+static-ffmpeg

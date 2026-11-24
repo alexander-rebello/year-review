@@ -1,0 +1,12 @@
+# downloaded on first start
+app/models/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# macOS / Windows
+.DS_Store
+Thumbs.db
+# never commit projects, caches or rendered movies
+*.mp4
+.slideshow_*/
